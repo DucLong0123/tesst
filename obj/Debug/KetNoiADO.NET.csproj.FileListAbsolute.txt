@@ -1,0 +1,47 @@
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\bin\Debug\KetNoiADO.NET.exe.config
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\bin\Debug\KetNoiADO.NET.exe
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\bin\Debug\KetNoiADO.NET.pdb
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.csproj.AssemblyReference.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.ChucNang.CapNhatDuLieu.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.ChucNang.LinQtoSQLQuanLyMatHang.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.ChucNang.MoHinhNgatKetNoi.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.ChucNang.ThemSuaXoaMatHang.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.frm_Login.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.frm_Main.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.Properties.Resources.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.csproj.GenerateResource.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.exe
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (goc)\obj\Debug\KetNoiADO.NET.pdb
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\bin\Debug\KetNoiADO.NET.exe.config
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\bin\Debug\KetNoiADO.NET.exe
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\bin\Debug\KetNoiADO.NET.pdb
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.csproj.AssemblyReference.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.ChucNang.CapNhatDuLieu.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.ChucNang.LinQtoSQLQuanLyMatHang.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.ChucNang.MoHinhNgatKetNoi.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.ChucNang.ThemSuaXoaMatHang.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.frm_Login.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.frm_Main.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.Properties.Resources.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.ViDuLinQtoSQL.resources
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.csproj.GenerateResource.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.exe
+C:\Users\ThangTX\Desktop\KetNoiADO.NET (bt2)\obj\Debug\KetNoiADO.NET.pdb
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\bin\Debug\KetNoiADO.NET.exe.config
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\bin\Debug\KetNoiADO.NET.exe
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\bin\Debug\KetNoiADO.NET.pdb
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.csproj.AssemblyReference.cache
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.ChucNang.CapNhatDuLieu.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.ChucNang.LinQtoSQLQuanLyMatHang.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.ChucNang.MoHinhNgatKetNoi.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.ChucNang.ThemSuaXoaMatHang.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.frm_Login.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.frm_Main.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.Properties.Resources.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.ViDuLinQtoSQL.resources
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.csproj.GenerateResource.cache
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.csproj.CoreCompileInputs.cache
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.exe
+D:\Hoc\.Net\Buoi7\KetNoiADO.NET (buoi 7 - LinQ to SQL)\KetNoiADO.NET (buoi 7 - LinQ to SQL)\obj\Debug\KetNoiADO.NET.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLCuaHang">
+  <DataContextMoniker Name="/QLCuaHangDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2ada6d6c-99a7-4f5b-ad52-2c3213cc1b4f" absoluteBounds="0.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLCuaHangDataContext/MatHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa781dde-6f0c-4429-b771-d93c7fc4d814" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="33e461c0-035b-4246-a4ae-c17c951eb7fc" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLCuaHangDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1adc6f32-e365-4710-9da1-1aaf2734ef21" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
